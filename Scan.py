@@ -8,7 +8,7 @@ from telethon.errors import ChannelPrivateError, ChannelInvalidError, RPCError
 
 API_ID = 27705761
 API_HASH = "822cb334ca4527a134aae97f9fe44fd6"
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8102123963:AAH9yagDdUSSNDrwmte6QowIFNP21_k5ET8"
 SESSION_NAME = "ScanBot"
 
 app = Flask(__name__)
